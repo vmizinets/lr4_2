@@ -292,9 +292,9 @@
             this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(12, 174);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(235, 22);
+            this.label7.Size = new System.Drawing.Size(283, 22);
             this.label7.TabIndex = 20;
-            this.label7.Text = "Спортивные сооружения:";
+            this.label7.Text = "Наши спортивные сооружения:";
             // 
             // label2
             // 
